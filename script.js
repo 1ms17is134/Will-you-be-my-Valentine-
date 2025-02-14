@@ -56,13 +56,21 @@
 const messages = [
     "Are you sure?",
     "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
+    "Ek minute, tu sach mein no bol rahi hai?",
+    "What if I bribe you with extra fries?",
+    "Arrey please yaar, kal se gym bhi jaunga",
+    "With unlimited pani puri and NO bhaiya ka extra paani",
+    "I’ll let you win every argument forever",
+    "But meri maa….*(",
+    "Bas, ab toh zindagi bekaar hai",
+    "Plzzzzzzzzzzzzzz, 7 janmon ka dosti ka sawaal hai",
+    "Okay fine, but I’m telling aunty you’re mean",
+    "PRETTY PLEASE WITH EXTRA GARMA GARAM SAMOSA",
+    "With extra pani puri on top?",
+    "With cheesecake,Tiramisu and Ice-cream?",
+    "Imagine the regret when they make a biopic on me",
+    "No? Toh bas, Bhagwan hi malik hai",
+    "Ok fine, Ab nahi puchunga vapis :(...",
     "Just kidding, say yes please! ❤️"
 ];
 
